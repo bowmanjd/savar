@@ -1,0 +1,4 @@
+SQLPASS = "'!!*\""
+SQLSERVER = "localhost"
+SQLUSER = "sa"
+
